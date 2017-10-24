@@ -1,7 +1,7 @@
 # Ideas and random stuff
 
 > Give away everything you know, and more will come back to you.
-
+>  
 > _Paul Arden_
 
 
