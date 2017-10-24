@@ -26,11 +26,19 @@ _Create and share you lists of things, like Instagram with lists_
 
 ## Talks
 
-#### 1. Talk: "Demystifying graphs"
+#### 1. "Demystifying graphs"
 - Graphs are used for ...
 - This is the way they work
 - Instragram on MySql vs. Instagram on graph
 
-#### 2. Talk: "Awesome things i take for granted"
+#### 2. "Awesome things i take for granted"
 - Likebuttons (https://www.facebook.com/notes/facebook/i-like-this/53024537130, https://www.quora.com/Whats-the-history-of-the-Awesome-Button-that-eventually-became-the-Like-button-on-Facebook)
 - Fiber (https://en.wikipedia.org/wiki/Optical_fiber)
+
+## Misc.
+
+#### 1. Over-engineering Hackaton
+- Over-engineer something
+
+#### 2. Natural language processing of a podcast
+- Could you take e.g. [Radioresepsjonen](https://radio.nrk.no/serie/radioresepsjonen) and convert everything they say into text, create data from it and do somwthing fun with it? What do they talk about the most, which one is talking the most etc. etc.)
