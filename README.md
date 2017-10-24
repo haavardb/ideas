@@ -1,6 +1,9 @@
 # Ideas and random stuff
 
-All these ideas i have, and so little time
+> Give away everything you know, and more will come back to you.
+
+> _Paul Arden_
+
 
 ## Products/platforms
 
@@ -19,7 +22,7 @@ _Take attendance of kids at an event/school_
 _Platform for divorced parents to share information etc. about their kids_
 
 #### 4. SocialList
-_Create and share you lists of things_
+_Create and share you lists of things, like Instagram with lists_
 
 ## Talks
 
