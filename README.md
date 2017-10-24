@@ -22,7 +22,7 @@ _Take attendance of kids at an event/school_
 _Platform for divorced parents to share information etc. about their kids_
 
 #### 4. SocialList
-_Create and share you lists of things, like Instagram with lists_
+_Create and share your lists of things, like Instagram with lists_
 
 ## Talks
 
@@ -41,4 +41,4 @@ _Create and share you lists of things, like Instagram with lists_
 - Over-engineer something
 
 #### 2. Natural language processing of a podcast
-- Could you take e.g. [Radioresepsjonen](https://radio.nrk.no/serie/radioresepsjonen) and convert everything they say into text, create data from it and do somwthing fun with it? What do they talk about the most, which one is talking the most etc. etc.)
+- Could you take e.g. [Radioresepsjonen](https://radio.nrk.no/serie/radioresepsjonen) and convert everything they say into text, create data from it and do something fun with it? What do they talk about the most, which one is talking the most etc. etc.)
