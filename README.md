@@ -25,6 +25,10 @@ _Platform for divorced parents to share information etc. about their kids_
 #### 4. SocialList
 _Create and share your lists of things, like Instagram with lists_
 
+#### 5. SlackToBoard
+_A given emoticon-reaction to a post in a Slack channel makes it appear in a leaderboard._
+- Usecase could be an idea/brainstorming-channel where the posts marked with a given emoticon is presented, sorted by number of reactions maybe? Or last posts? 
+
 ## Talks
 
 #### 1. "Demystifying graphs"
