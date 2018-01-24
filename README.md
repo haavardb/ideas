@@ -20,6 +20,7 @@ _Take attendance of kids at an event/school_
 
 #### 3. KidSplit
 _Platform for divorced parents to share information etc. about their kids_
+- Could include economic data with OpenBanking? "How much have we each spent on the children?"
 
 #### 4. SocialList
 _Create and share your lists of things, like Instagram with lists_
